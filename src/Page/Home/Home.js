@@ -1,5 +1,5 @@
 import React from 'react';
-import Footer from '../Home/Footer';
+import Footer from '../Shared/Footer';
 import Banner from './Banner';
 import ContactUs from './ContactUs';
 import DentalTreat from './DentalTreat';
